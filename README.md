@@ -1,4 +1,4 @@
-# 60-days-of-Data-Science-and-ML
+# 60 days of Data Science and ML with project Series 
 
 ![image](https://user-images.githubusercontent.com/93926742/144416831-ef6ad518-2963-403f-a13b-dba150f5e6ec.png)
 
@@ -451,6 +451,8 @@ In this project we learned and implemented how to use transfer learning to fine-
 Where to find Day 60 post : [Link](https://medium.com/coders-mojo/day-60-60-days-of-data-science-and-machine-learning-series-29f72bd88c8c)
 
 ----------
+
+**Some of the other best Series **
 
 [Complete 60 Days of Data Science and Machine Learning Series ](https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1?sk=4e75e043b7630a9f963562ebac94e129)
 
