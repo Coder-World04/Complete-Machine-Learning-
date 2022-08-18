@@ -172,7 +172,7 @@ Where to find Day 21 post : [Link](https://medium.datadriveninvestor.com/day-21-
 
 ----------
 
-**Day 22 : All the Important ML algorithms with Projet 1 **
+**Day 22 : All the Important ML algorithms with Projet 1**
   
 Where to find Day 22 post : [Link](https://medium.com/coders-mojo/day-22-60-days-of-data-science-and-machine-learning-series-752dca7af6e?sk=aee759311db45f3fcb6f8b0e084b8a7f)
 
