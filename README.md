@@ -5,7 +5,7 @@
 
 **Day 1 : Python Basics with Code Implementation — Part 1**
 
-In this post we covered end to end Python Basics ( Part 1) that you should know. Topics like data types, strings, operators, and Chaining Comparison Operators with Logical Operators are covered.
+In this post we covered end to end Python Basics ( Part 1) that you should know. Topics like data types,strings, operators, and Chaining Comparison Operators with Logical Operators are covered.
 
 Where to find Day 1 post : [Link](https://medium.datadriveninvestor.com/60-days-of-data-science-and-machine-learning-series-day-1-a62ce3c7aac1)
 
