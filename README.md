@@ -224,7 +224,7 @@ Where to find Day 28 post : [Link](https://medium.com/coders-mojo/day-28-60-days
 
 ----------
 
-**Day 29 : Machine Learning Clustering in detail with a project 2 ( part 2)**
+**Day 29 : Machine Learning Clustering in detail with a project 2( part 2)**
 
 In this post we covered Machine Learning Clustering in detail with another project( Part 2).
 
