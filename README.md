@@ -216,8 +216,7 @@ Where to find Day 27 post : [Link](https://medium.datadriveninvestor.com/day-27-
 
 ----------
 
-**Day 28 : Machine Learning Clustering in detail with a project 2 ( part 1)
-**
+**Day 28 : Machine Learning Clustering in detail with a project 2 ( part 1)**
 
 In this post we covered Machine Learning Clustering in detail with another project( Part 1).
 Where to find Day 28 post : [Link](https://medium.com/coders-mojo/day-28-60-days-of-data-science-and-machine-learning-series-ee7e4f3b6b46)
