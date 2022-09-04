@@ -7,7 +7,7 @@
 
 In this post we covered end to end Python Basics ( Part 1) that you should know. Topics like data types,strings, operators, and Chaining Comparison Operators with Logical Operators are covered.
 
-Where to find Day 1 post : [Link](https://medium.datadriveninvestor.com/60-days-of-data-science-and-machine-learning-series-day-1-a62ce3c7aac1)
+Where to find Day 1 post: [Link](https://medium.datadriveninvestor.com/60-days-of-data-science-and-machine-learning-series-day-1-a62ce3c7aac1)
 
 ----------
 
@@ -15,7 +15,7 @@ Where to find Day 1 post : [Link](https://medium.datadriveninvestor.com/60-days-
 
 In this post we covered end to end Python Basics ( Part 2) that you should know. Topics like Python Lists and Dictionaries, Sets, Tuples etc are covered in detail.
 
-Where to find Day 2 post : [Link](https://medium.datadriveninvestor.com/day-2-60-days-of-data-science-and-machine-learning-series-5ef21f098454)
+Where to find Day 2 post: [Link](https://medium.datadriveninvestor.com/day-2-60-days-of-data-science-and-machine-learning-series-5ef21f098454)
 
 -----------
 
