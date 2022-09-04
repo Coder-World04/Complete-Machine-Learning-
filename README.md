@@ -23,7 +23,7 @@ Where to find Day 2 post: [Link](https://medium.datadriveninvestor.com/day-2-60-
 
 In this post we covered end to end Python Basics ( Part 3) that you should know. Topics like Tuples, Sets, Loops, Break and Continue Statements, Object-Oriented Programming and Class and attributes in Python are covered in detail.
 
-Where to find Day 3 post : [Link](https://medium.datadriveninvestor.com/day-3-60-days-of-data-science-and-machine-learning-series-abcd9c6c5c18)
+Where to find Day 3 post: [Link](https://medium.datadriveninvestor.com/day-3-60-days-of-data-science-and-machine-learning-series-abcd9c6c5c18)
 
 -----------
 
