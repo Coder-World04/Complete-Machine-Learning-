@@ -48,7 +48,7 @@ Where to find Day 5 post : [Link](https://medium.datadriveninvestor.com/day-5-60
 
 In this post we covered end to end Advanced Python that you should know. Topics like Decorators, Memoization using Decorators, Generators, Ordered and Defaultdict, Coroutine with Code implementation are covered in detail.
 
-Where to find Day 6 post : [Link](https://medium.datadriveninvestor.com/day-6-60-days-of-data-science-and-machine-learning-series-3cfd04c1011c)
+Where to find Day 6 post: [Link](https://medium.datadriveninvestor.com/day-6-60-days-of-data-science-and-machine-learning-series-3cfd04c1011c)
 
 ------------
 
