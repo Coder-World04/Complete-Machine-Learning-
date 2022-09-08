@@ -38,7 +38,7 @@ Where to find Day 4 post : [Link](https://medium.datadriveninvestor.com/day-4-60
 
 **Day 5: Intermediate Python with Code Implementation — Part 2**
 
-In this post we covered end to end Intermediate Python( Part 2) that you should know. Topics like Lambda Functions, Magic methods, Inheritance and Polymorphism, Errors and Exception Handling, User-defined functions, Python garbage collection, and debugger are covered in detail.
+In this post we covered end to end Intermediate Python( Part 2) that you should know. Topics like Lambda Functions, Magic methods, Inheritance and Polymorphism, Errors and Exception Handling, User-defined functions,Python garbage collection, and debugger are covered in detail.
 
 Where to find Day 5 post : [Link](https://medium.datadriveninvestor.com/day-5-60-days-of-data-science-and-machine-learning-series-f31259481904)
 
