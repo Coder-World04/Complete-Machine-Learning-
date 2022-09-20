@@ -302,7 +302,7 @@ Where to find Day 39 post : [Link](https://medium.com/coders-mojo/day-39-60-days
 ----------
 **Day 40 : Tensorflow with a project**
 
-In this post we covered the basics of Tensorflow with a project.
+In this post we covered the basics of Tensorflow with a project .
 
 Where to find Day 40 post : [Link](https://medium.com/coders-mojo/day-40-60-days-of-data-science-and-machine-learning-series-2f1214969836)
 
