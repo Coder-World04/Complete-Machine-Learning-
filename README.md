@@ -134,7 +134,7 @@ Where to find Day 16 post : [Link](https://medium.datadriveninvestor.com/day-16-
 
 **Day 17: Project — Kaggle’s annual Machine Learning and Data Science Survey ( Part 1 )**
 
-In this post we implemented a project and covered some of the most important concepts — data cleaning, preprocessing, EDA etc through a project. This data ( Kaggle’s annual Machine Learning and Data Science Survey) has 42+ questions and 25,973 responses and for this post we will cover how to approach a problem and a very elementary view covering how to analyze your data.
+In this post we implemented a project and covered some of the most important concepts —data cleaning, preprocessing, EDA etc through a project. This data ( Kaggle’s annual Machine Learning and Data Science Survey) has 42+ questions and 25,973 responses and for this post we will cover how to approach a problem and a very elementary view covering how to analyze your data.
 
 Where to find Day 17 post : [Link](https://medium.datadriveninvestor.com/day-17-60-days-of-data-science-and-machine-learning-866400cab068)
 
