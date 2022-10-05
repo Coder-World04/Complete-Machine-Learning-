@@ -98,7 +98,7 @@ In this post we learned/implemented Hands on Data Pre-processing in depth — Pa
 
 Where to find Day 12 post : [Link](https://medium.datadriveninvestor.com/day-12-60-days-of-data-science-and-machine-learning-1264f9c31b77)
 
-----------
+-----------
 
 **Day 13 : Data Pre-processing Part 1 with Code Implementation**
 
