@@ -42,7 +42,7 @@ In this post we covered end to end Intermediate Python( Part 2) that you should 
 
 Where to find Day 5 post : [Link](https://medium.datadriveninvestor.com/day-5-60-days-of-data-science-and-machine-learning-series-f31259481904)
 
------------
+------------
 
 **Day 6:Advanced Python with Code Implementation**
 
