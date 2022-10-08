@@ -62,7 +62,7 @@ Where to find Day 7 post : [Link](https://medium.datadriveninvestor.com/day-7-60
 
 **Day 8 : Maths for Data Science and Machine learning**
 
-In this post we covered Maths for ML . Topics like Linear Algebra, Calculus, Matrix and Vectors, Bayes Theorem and Cheatsheets etc are covered in detail.
+In this post we covered Maths for ML. Topics like Linear Algebra, Calculus, Matrix and Vectors, Bayes Theorem and Cheatsheets etc are covered in detail.
 
 Where to find Day 8 post : [Link](https://medium.datadriveninvestor.com/day-8-60-days-of-data-science-and-machine-learning-5155cfc78a68)
 
