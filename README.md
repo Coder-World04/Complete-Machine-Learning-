@@ -168,7 +168,7 @@ Where to find Day 20 post : [Link](https://medium.com/coders-mojo/day-20-60-days
 
 Demonstrated how to do effective Exploratory Data Visualization.
 
-Where to find Day 21 post : [Link](https://medium.datadriveninvestor.com/day-21-60-days-of-data-science-and-machine-learning-series-b0feb6ba71f4?sk=c2a68682a01ea2de48b837f429032db1)
+Where to find Day 21 post: [Link](https://medium.datadriveninvestor.com/day-21-60-days-of-data-science-and-machine-learning-series-b0feb6ba71f4?sk=c2a68682a01ea2de48b837f429032db1)
 
 ----------
 
