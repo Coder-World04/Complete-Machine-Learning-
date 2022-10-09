@@ -54,7 +54,7 @@ Where to find Day 6 post: [Link](https://medium.datadriveninvestor.com/day-6-60-
 
 **Day 7 : Statistics for Data Science and Machine Learning with Code Implementation**
 
-In this post we covered Statistics for Data Science you should know.
+In this post we covered Statistics for Data Science you should know .
 
 Where to find Day 7 post : [Link](https://medium.datadriveninvestor.com/day-7-60-days-of-data-science-and-machine-learning-6bc9cc2ceb0b)
 
