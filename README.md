@@ -110,7 +110,7 @@ Where to find Day 13 post : [Link](https://medium.datadriveninvestor.com/day-13-
 
 **Day 14 : Regression Part 1 with Code Implementation**
 
-In this post where we learned/implemented Hands on Regression in depth — Part 1. Topics like Simple Linear Regression,Multi Linear Regression, Polynomial Regression are covered in detail.
+In this post where we learned/implemented Hands on Regression in depth — Part 1. Topics like Simple Linear Regression,Multi Linear Regression,Polynomial Regression are covered in detail.
 
 Where to find Day 14 post : [Link](https://medium.datadriveninvestor.com/day-14-60-days-of-data-science-and-machine-learning-7486395061b)
 
