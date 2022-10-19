@@ -102,7 +102,7 @@ Where to find Day 12 post : [Link](https://medium.datadriveninvestor.com/day-12-
 
 **Day 13 : Data Pre-processing Part 1 with Code Implementation**
 
-In this post we learned/implemented Hands on Data Pre-processing in depth — Part 2. Topics like Data Cleaning, Data Augmentation, Transformation, Channel Shift etc are covered in detail.
+In this post we learned/implemented Hands on Data Pre-processing in depth — Part 2 . Topics like Data Cleaning, Data Augmentation, Transformation, Channel Shift etc are covered in detail.
 
 Where to find Day 13 post : [Link](https://medium.datadriveninvestor.com/day-13-60-days-of-data-science-and-machine-learning-52df0d8d88f)
 
