@@ -158,7 +158,7 @@ Where to find Day 19 post : [Link](https://medium.datadriveninvestor.com/day-19-
 
 **Day 20 : Project — Detailed Crypto Analysis (Part 1)**
 
-In this post we covered detailed Crypto Analysis to build a basic intuition and part 2 covers how we can build a model to predict the prices.
+In this post we covered detailed Crypto Analysis to build a basic intuition and part 2 covers how we can build a model to predict the prices .
 
 Where to find Day 20 post : [Link](https://medium.com/coders-mojo/day-20-60-days-of-data-science-and-machine-learning-5ab13660b4ec)
 
