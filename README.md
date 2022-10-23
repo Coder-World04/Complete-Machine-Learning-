@@ -70,7 +70,7 @@ Where to find Day 8 post : [Link](https://medium.datadriveninvestor.com/day-8-60
 
 **Day 9 : Pandas Part 1 with Code Implementation**
 
-In this post we covered Pandas part 1 in depth with Code Implementation . Pandas is an open source Python package written for the Python programming language for data manipulation, analysis and ML tasks.
+In this post we covered Pandas part 1 in depth with Code Implementation . Pandas is an open source Python package written for the Python programming language for data manipulation, analysis and ML tasks .
 
 Where to find Day 9 post : [Link](https://medium.datadriveninvestor.com/day-9-60-days-of-data-science-and-machine-learning-2d0f75a498b9)
 
