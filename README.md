@@ -80,7 +80,7 @@ Where to find Day 9 post : [Link](https://medium.datadriveninvestor.com/day-9-60
 
 In this post we covered Pandas part 2 in depth with Code Implementation.Topics like indexing,filtering, transformation, Merging, Hierarchical Indexing etc are covered.
 
-Where to find Day 10 post : [Link](https://medium.datadriveninvestor.com/day-10-60-days-of-data-science-and-machine-learning-d5d789fbda79)
+Where to find Day 10 post: [Link](https://medium.datadriveninvestor.com/day-10-60-days-of-data-science-and-machine-learning-d5d789fbda79)
 
 -----------
 
