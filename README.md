@@ -32,7 +32,7 @@ Where to find Day 3 post: [Link](https://medium.datadriveninvestor.com/day-3-60-
 In this post we covered end to end Intermediate Python ( Part 1) that you should know. Topics like First Class functions,Private Variables, Global and Non Local Variables, __import__ function, Magic Functions, Tuple Unpacking, Static Variables and Methods in Python are covered in detail.
 Where to find Day 4 post:
 
-Where to find Day 4 post : [Link](https://medium.datadriveninvestor.com/day-4-60-days-of-data-science-and-machine-learning-series-dd590f54d928)
+Where to find Day 4 post: [Link](https://medium.datadriveninvestor.com/day-4-60-days-of-data-science-and-machine-learning-series-dd590f54d928)
 
 -----------
 
