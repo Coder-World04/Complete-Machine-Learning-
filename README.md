@@ -9,7 +9,7 @@ In this post we covered end to end Python Basics ( Part 1) that you should know.
 
 Where to find Day 1 post : [Link](https://medium.datadriveninvestor.com/60-days-of-data-science-and-machine-learning-series-day-1-a62ce3c7aac1)
 
----------------
+----------------
 
 **Day 2 : Python Basics with Code Implementation — Part 2**
 
@@ -17,7 +17,7 @@ In this post we covered end to end Python Basics ( Part 2) that you should know.
 
 Where to find Day 2 post: [Link](https://medium.datadriveninvestor.com/day-2-60-days-of-data-science-and-machine-learning-series-5ef21f098454)
 
----------------
+----------------
 
 **Day 3 : Python Basics with Code Implementation — Part 3**
 
@@ -25,7 +25,7 @@ In this post we covered end to end Python Basics ( Part 3) that you should know.
 
 Where to find Day 3 post: [Link](https://medium.datadriveninvestor.com/day-3-60-days-of-data-science-and-machine-learning-series-abcd9c6c5c18)
 
--------------
+--------------
 
 **Day 4 : Intermediate Python with Code Implementation — Part 1**
 
