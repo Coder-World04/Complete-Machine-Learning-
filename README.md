@@ -34,7 +34,7 @@ Where to find Day 4 post:
 
 Where to find Day 4 post: [Link](https://medium.datadriveninvestor.com/day-4-60-days-of-data-science-and-machine-learning-series-dd590f54d928)
 
--------------
+--------------
 
 **Day 5: Intermediate Python with Code Implementation — Part 2**
 
