@@ -66,7 +66,7 @@ In this post we covered Maths for ML. Topics like Linear Algebra, Calculus, Matr
 
 Where to find Day 8 post : [Link](https://medium.datadriveninvestor.com/day-8-60-days-of-data-science-and-machine-learning-5155cfc78a68)
 
------------
+------------
 
 **Day 9 : Pandas Part 1 with Code Implementation**
 
