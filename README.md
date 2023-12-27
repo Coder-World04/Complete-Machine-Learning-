@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/93926742/144416831-ef6ad518-2963-403f-a13b-dba150f5e6ec.png)
 
+Start here - [ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
 
 **Day 1 : Python Basics with Code Implementation — Part 1**
 
