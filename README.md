@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/93926742/144416831-ef6ad518-2963-403f-a13b-dba150f5e6ec.png)
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 [Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
