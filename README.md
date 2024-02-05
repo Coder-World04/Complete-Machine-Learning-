@@ -12,7 +12,7 @@ Youtube for all the implemented projects and tech interview resources - [Ignito 
 
 Start here - [ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
 
------
+------
 
 **Day 1 : Python Basics with Code Implementation — Part 1**
 
